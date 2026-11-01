@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Tuplok-Tuplok logo" width="120"/>
+<img src="logo.png" alt="Tuplok-Tuplok logo" width="120"/>
 
 # Tuplok-Tuplok
 
