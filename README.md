@@ -27,7 +27,7 @@
 > *"Tuplok-tuplok"* is the sound of fingers tapping keys. 🎹
 
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
-![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
+![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134933.png?raw=true)
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
