@@ -31,7 +31,7 @@
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134947.png?raw=true)
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20135003.png?raw=true)
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20135015.png?raw=true)
-![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
+![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20135027.png?raw=true)
 ![image alt](https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK/blob/main/TUPLOK2/Screenshot%202026-11-01%20134916.png?raw=true)
 
 ## 🧬 The Typing Fingerprint
