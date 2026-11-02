@@ -1,22 +1,66 @@
-# Contributing to Tuplok-Tuplok
+# Contributing to TUPLOK-TUPLOK
 
-Tuplok-Tuplok is a desktop typing trainer that analyzes speed, accuracy, rhythm, hesitation, and typing behavior.
+Thank you for considering a contribution to this project. This guide explains how to prepare your environment, propose improvements, and submit changes for review.
 
-## Clone
+## Project overview
+
+Desktop typing trainer with typing-behavior analytics.
+
+## Getting started
+
 ```bash
 git clone https://github.com/joshuaarao42-arch/TUPLOK-TUPLOK.git
 cd TUPLOK-TUPLOK
 ```
-Install the dependencies and run the entry point documented in the README.
 
-## Project-specific contributions
-- Typing passages, difficulty levels, timers, and live character feedback.
-- Keystroke timing and session recording.
-- WPM, accuracy, consistency, hesitation, and corrected-error calculations.
-- Typing Fingerprint classifications and coaching tips.
-- SQLite history, charts, and dashboard summaries.
+Follow the repository README and existing project configuration if setup commands or entry points have changed. Review the current code before introducing new tools or dependencies.
 
-## Measurement integrity
-Test metrics against small, manually checked typing samples. Explain how incorrect, corrected, and skipped characters affect calculations. Handle very short sessions and zero-duration cases. Ensure coaching descriptions match the actual measured signals. Do not transmit typed content outside the local app without an explicit project decision; never commit real session databases.
+## What you can contribute
 
-Use branches such as `feature/typing-metric` or `fix/wpm-calculation`. Include sample keystroke sequences and expected results for algorithm changes.
+- Improve typing passages
+- Timers
+- Keystroke timing
+- WPM
+- Accuracy
+- Consistency
+- Hesitation
+- Corrected-error calculations
+- Typing Fingerprint
+- SQLite history
+- And charts.
+
+Bug reports, documentation improvements, accessibility fixes, and reproducible tests are also welcome.
+
+## Project-specific requirements
+
+Test metrics against manually checked typing samples. Explain treatment of incorrect, corrected, and skipped characters. Handle very short sessions and zero-duration cases. Do not transmit typed content or commit real session databases.
+
+## Coding standards
+
+- Follow the language, naming, formatting, and file-organization conventions already used in the repository.
+- Keep changes focused and code easy to understand.
+- Validate user input and handle errors clearly.
+- Avoid unrelated refactoring and unnecessary dependencies.
+- Never commit secrets, generated local data, or personal information.
+
+## Testing
+
+Run the application using the documented setup and test every workflow affected by your change. Include edge cases, not only the successful path. State what you tested and the result. Add screenshots for interface changes and sample inputs with expected outputs for logic changes.
+
+## Branch and commit workflow
+
+Create a branch from the default branch. Use descriptive names such as `feature/short-description`, `fix/short-description`, or `docs/short-description`.
+
+Use clear commit prefixes: `feat:` for features, `fix:` for bug fixes, `docs:` for documentation, `style:` for formatting, `refactor:` for restructuring, and `test:` for tests.
+
+## Pull request guidelines
+
+Before submitting, ensure your changes are focused and tested. In the pull request, explain the problem, summarize the changes, link a related issue if available, list tests and results, and add screenshots or sample output when relevant. Mention breaking changes, new dependencies, and known limitations.
+
+## Reporting bugs and requesting features
+
+Search existing issues before opening a new one. For bugs, include reproduction steps, expected and actual behavior, environment details, and sanitized screenshots or logs. For feature requests, explain the use case and expected benefit. Do not publish credentials or private data.
+
+## Code of conduct
+
+Be respectful, patient, and constructive. Critique code and ideas rather than people. Harassment, discrimination, and abusive behavior are not acceptable.
